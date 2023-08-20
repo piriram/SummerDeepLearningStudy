@@ -10,7 +10,7 @@
 
 ![Machine Learning](image/29040500.png)
 
-### Machine Learning Problems
+1. Machine Learning Problems
 - 분류(Classification)
   - Class label 예측
 - 회귀(Regression)
@@ -22,7 +22,7 @@
 - 특징 추출(Embedding)
   - 데이터를 유의미한 형태의 저차원 벡터로 변환
 
-### Machine Learning Methods
+2. Machine Learning Methods
 - 지도 학습
   - 정답 값이 있는 데이터로 학습
 - 비지도 학습
@@ -32,7 +32,7 @@
 - 강화 학습
   - 피드백에 의한 학습
 
-### Machine Learning Concepts
+3. Machine Learning Concepts
 #### Training Dataset
 모델 학습에 활용되는 데이터
 #### Validation(Held-out) Dataset 
@@ -57,7 +57,7 @@
 #### Generalization 
 일반화, 모델이 처음 보는 데이터도 잘 처리할 수 있는 능력
 
-### 머신러닝의 목표 ➡️ Generalization
+4. 머신러닝의 목표 ➡️ Generalization
 - 처음보는 데이터도 잘 처리할 수 있어야한다.
 - 테스트 셋에 과하게 학습이 되면 처음보는 데이터 처리를 판단하는 능력이 감소한다.
 
